@@ -4,14 +4,12 @@
   </head>
   <body>
     <h1><b>A. FRUITS</b></h1>
-    <ol>
-      <p>type="i"</p>
+    <ol>type="i">
       <li>Pawpaw</li>
       <li>Apple</li>
     </ol>
     <h2><b>B.VEGETABLES</b></h2>
-    <ol>
-      <p>type="i" start="3"</p>
+    <ol>type="i" start="3">
       <li>Sukuma</li>
       <li>Cabbages</li>
       <li>Tomatoes</li>
