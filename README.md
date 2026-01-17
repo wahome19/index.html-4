@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Fruits and Vegetables</title>
+    <title>Fruits and Vegetables<title/>
   </head>
   <body>
     <h1><b>A. FRUITS</b></h1>
